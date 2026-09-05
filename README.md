@@ -232,6 +232,16 @@ A DevOps-focused application that compares developer profiles and generates a co
 ---
 
 # 🔥 GITHUB STREAK
+
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Matintamboli&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00FF&currStreakLabel=00F0FF"
+    alt="GitHub Streak"
+  />
+</p>
+
+
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
