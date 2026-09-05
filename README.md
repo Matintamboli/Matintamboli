@@ -244,6 +244,7 @@ A DevOps-focused application that compares developer profiles and generates a co
 
 ## 📊 GITHUB ANALYTICS
 
+
 <p align="center">
   <img
     height="180"
