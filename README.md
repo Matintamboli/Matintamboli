@@ -232,14 +232,21 @@ A DevOps-focused application that compares developer profiles and generates a co
 ---
 
 # 🔥 GITHUB STREAK
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Matintamboli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
 
-<img src="https://streak-stats.demolab.com?user=Matintamboli&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00FF&currStreakLabel=00F0FF"/>
-
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matintamboli&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
-
----
 
 # 🐍 CONTRIBUTION SNAKE
 
