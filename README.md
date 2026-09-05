@@ -244,14 +244,6 @@ A DevOps-focused application that compares developer profiles and generates a co
 ---
 
 # 🐍 CONTRIBUTION SNAKE
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Matintamboli/Matintamboli/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Matintamboli/Matintamboli/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
